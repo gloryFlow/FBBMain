@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '7F36DDFF898D6981FFB41BE963A09CCF'
+               BlueprintIdentifier = '166FFA567E0ABA753EAD523F1139380E'
                BlueprintName = 'MGJRouter'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libMGJRouter.a'>

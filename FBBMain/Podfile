@@ -6,6 +6,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 target 'FBBMain' do
 
     # 私有仓库
+    pod 'FBBShopCenter'
     pod 'FBBUserCenter'
     pod 'FBBHttpClient'
 

@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '587E6C6855DACD8F2B7A3193F0E61F09'
-               BlueprintName = 'SDWebImage'
+               BlueprintIdentifier = '4FC4535C78D9152594284A0E6DA0027A'
+               BlueprintName = 'FBBShopCenter'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libSDWebImage.a'>
+               BuildableName = 'libFBBShopCenter.a'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

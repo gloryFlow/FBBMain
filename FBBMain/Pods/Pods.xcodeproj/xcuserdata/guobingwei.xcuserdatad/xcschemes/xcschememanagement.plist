@@ -14,6 +14,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>FBBShopCenter.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>FBBUserCenter.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -42,12 +47,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>2FD996468BB2705A71FDE5475ABD0DDE</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>471C7FD2377F876374274D67E6BFB9CA</key>
+		<key>166FFA567E0ABA753EAD523F1139380E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -57,12 +57,17 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5FA6DC478C11CACC715C9307064CBD18</key>
+		<key>4FC4535C78D9152594284A0E6DA0027A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>7F36DDFF898D6981FFB41BE963A09CCF</key>
+		<key>587E6C6855DACD8F2B7A3193F0E61F09</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5FA6DC478C11CACC715C9307064CBD18</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -73,6 +78,11 @@
 			<true/>
 		</dict>
 		<key>9E033EDB5EC0819481B0546434FA577B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D4BC7A8CEAA541680B473BC0D8BFDD29</key>
 		<dict>
 			<key>primary</key>
 			<true/>

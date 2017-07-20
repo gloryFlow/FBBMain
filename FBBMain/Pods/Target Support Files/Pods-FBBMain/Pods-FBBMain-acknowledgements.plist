@@ -59,6 +59,17 @@ THE SOFTWARE.
 			<key>License</key>
 			<string>MIT</string>
 			<key>Title</key>
+			<string>FBBShopCenter</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>MIT
+</string>
+			<key>License</key>
+			<string>MIT</string>
+			<key>Title</key>
 			<string>FBBUserCenter</string>
 			<key>Type</key>
 			<string>PSGroupSpecifier</string>
