@@ -14,7 +14,7 @@ PODS:
   - AFNetworking/Serialization (3.1.0)
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
-  - FBBHttpClient (0.0.7):
+  - FBBHttpClient (0.2.3):
     - AFNetworking
   - FBBShopCenter (0.0.8):
     - FBBHttpClient
@@ -24,9 +24,9 @@ PODS:
     - MGJRouter
   - Masonry (1.0.2)
   - MGJRouter (0.9.3)
-  - SDWebImage (4.0.0):
-    - SDWebImage/Core (= 4.0.0)
-  - SDWebImage/Core (4.0.0)
+  - SDWebImage (4.1.0):
+    - SDWebImage/Core (= 4.1.0)
+  - SDWebImage/Core (4.1.0)
 
 DEPENDENCIES:
   - FBBHttpClient
@@ -38,12 +38,12 @@ DEPENDENCIES:
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
-  FBBHttpClient: 7c2a59a73ace6b2055135e070168289acad01b58
+  FBBHttpClient: bc6b315fc1b063dbfac4d8815ff59c346702b615
   FBBShopCenter: 1c94998cdbae4ae5f215b279655e5ff3ac72166f
   FBBUserCenter: 7f0ec1928b36fd3fc8dd839c15d5c6927a8f2dbd
   Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
   MGJRouter: f65821e2aeffc8f9e84b254c8f1c0dd80f048aa9
-  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  SDWebImage: 0e435c14e402a6730315a0fb79f95e68654d55a4
 
 PODFILE CHECKSUM: c95cfccae97ce082dc3376cee432c7f1b6e1cb3f
 
